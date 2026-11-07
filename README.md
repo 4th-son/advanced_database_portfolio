@@ -14,7 +14,7 @@ inventory tracking, order processing, payments and deliveries.
 
 - PostgreSQL
 - pgAdmin 4
-- MongoDB (planned for Portfolio 4)
+- MongoDB
 - Draw.io
 
 ## Portfolio Activities
